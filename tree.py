@@ -10,3 +10,4 @@ class BinaryTree:
         self.queue=[]
     def level_build_tree(self,node:Node):
         pass
+    # 哈哈哈！！！
